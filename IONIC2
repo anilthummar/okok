@@ -1,3 +1,22 @@
+IONIC2 PATH ON WINDOWS 
+
+Users Variable Name 
+
+ANDROID_HOME=F:\Android\android-sdk\android-sdk\platform-tools
+JAVA_HOME=C:\Program Files (x86)\Java\jdk1.8.0_60
+
+
+
+F:\Android\android-sdk\android-sdk\platform-tools\tools
+F:\Android\android-sdk\android-sdk\tools
+
+
+
+
+
+C:\Program Files\nodejs\
+
+
 *****************************MPAndroidChart************************************
 
 https://github.com/PhilJay/MPAndroidChart
