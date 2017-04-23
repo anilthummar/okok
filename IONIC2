@@ -4,6 +4,11 @@ Users Variable Name
 
 ANDROID_HOME=F:\Android\android-sdk\android-sdk\platform-tools
 JAVA_HOME=C:\Program Files (x86)\Java\jdk1.8.0_60
+_JAVA_OPTIONS: -Xmx512M
+
+
+
+
 
 
 
