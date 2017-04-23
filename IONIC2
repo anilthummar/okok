@@ -10,6 +10,78 @@ _JAVA_OPTIONS: -Xmx512M
 
 
 
+F:\>npm -v
+4.2.0
+
+F:\>node -v
+v7.9.0
+
+F:\>ionic -v
+2.2.2
+
+
+F:\>cordova -v
+6.5.0
+
+F:\>ionic -info
+  _             _
+ (_)           (_)
+  _  ___  _ __  _  ___
+ | |/ _ \| '_ \| |/ __|
+ | | (_) | | | | | (__
+ |_|\___/|_| |_|_|\___|  CLI v2.2.2
+
+Usage: ionic task args
+
+
+=======================
+Available tasks:
+(use --help or -h for more info)
+
+
+   start  ..........  Starts a new Ionic project in the specified PATH
+   serve  ..........  Start a local development server for app dev/testing
+   setup  ..........  Configure the project with a build tool (beta)
+   generate  .......  Generate pages and components
+   platform  .......  Add platform target for building an Ionic app
+   run  ............  Run an Ionic project on a connected device
+   emulate  ........  Emulate an Ionic project on a simulator or emulator
+   build  ..........  Build (prepare + compile) an Ionic project for a given platform.
+
+   plugin  .........  Add a Cordova plugin
+   resources  ......  Automatically create icon and splash screen resources (beta)
+                      Put your images in the ./resources directory, named splash or icon.
+                      Accepted file types are .png, .ai, and .psd.
+                      Icons should be 192x192 px without rounded corners.
+                      Splashscreens should be 2208x2208 px, with the image centered in the middle.
+
+   upload  .........  Upload an app to your Ionic account
+   share  ..........  Share an app with a client, co-worker, friend, or customer
+   lib  ............  Gets Ionic library version or updates the Ionic library
+   login  ..........  Login to your Ionic account
+   io  .............  Integrate your app with Ionic Cloud services
+   security  .......  Store your app's credentials for the Ionic Cloud
+   push  ...........  Upload APNS and GCM credentials to Ionic Push
+   package  ........  Use Ionic Package to build your app
+   config  .........  Set configuration variables for your ionic app
+   service  ........  Add an Ionic service package and install any required plugins
+   add  ............  Add an Ion, bower component, or addon to the project
+   remove  .........  Remove an Ion, bower component, or addon from the project
+   list  ...........  List Ions, bower components, or addons in the project
+   info  ...........  List information about the users runtime environment
+   help  ...........  Provides help for a certain command
+   link  ...........  Sets your Ionic App ID for your project
+   hooks  ..........  Manage your Ionic Cordova hooks
+   state  ..........  Saves or restores state of your Ionic Application using the package.json file
+   docs  ...........  Opens up the documentation for Ionic
+
+
+F:\>
+
+
+
+
+
 
 
 F:\Android\android-sdk\android-sdk\platform-tools\tools
